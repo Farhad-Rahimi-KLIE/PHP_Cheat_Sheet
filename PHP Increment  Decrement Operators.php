@@ -1,5 +1,5 @@
 Pre-Increment
-Increments $x by one, then returns $x
+Increments $x by One, then returns $x
 =++$x
 Post-increment
 Returns $x, then increments $x by one
