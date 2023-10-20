@@ -1,5 +1,5 @@
 And
-True if Both $x and $y are true
+True if Both $x and $y Are true
 $x and $y
 Or
 True if either $x or $y is true
