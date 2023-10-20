@@ -1,2 +1,2 @@
-It returns the number of affected rows
+It returns the Number of affected rows
 mysqli_affected_rows()
