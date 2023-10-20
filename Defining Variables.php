@@ -1,3 +1,3 @@
 <?php
-$Title = "PHP Cheat Sheet By CodeWithHarry";
+$Title = "PHP Cheat Sheet By Farhad Rahimi Klie";
 ?>
