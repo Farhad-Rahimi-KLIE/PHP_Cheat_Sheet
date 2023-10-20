@@ -1,2 +1,2 @@
-Sum of $x And $y
-$x + $y
+Sum of $f And $r
+$f + $r
