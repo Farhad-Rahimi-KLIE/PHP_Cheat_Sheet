@@ -1,2 +1,2 @@
-It Opens a non-persistent MySQL connection
+It Opens a non-Persistent MySQL connection
 mysqli_connect()
