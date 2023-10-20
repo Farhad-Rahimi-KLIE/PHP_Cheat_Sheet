@@ -1,4 +1,4 @@
-An object is an instance of the class.
+An Object is an instance of the class.
 <?php
 class Bike {
 public $color;
