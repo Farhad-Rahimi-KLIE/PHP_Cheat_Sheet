@@ -1,4 +1,4 @@
-It returns the Resource type:
+It returns the Resource Type:
 <?php
 // prints: stream 
 $fp = fopen("foo", "w");
