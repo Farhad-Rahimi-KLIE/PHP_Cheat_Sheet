@@ -1,4 +1,4 @@
-It allows a variable to be tested for equality against a list of values (cases).
+It Allows a variable to be tested for equality against a list of values (cases).
 switch (n) {
 case x:
 code to execute if n=x;
