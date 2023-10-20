@@ -1,2 +1,2 @@
-Product of $x and $y
+Product Of $x and $y
 $x * $y
