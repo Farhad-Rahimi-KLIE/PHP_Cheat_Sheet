@@ -1,2 +1,2 @@
-It Kills a MySQL thread
+It Kills a MySQL Thread
 mysqli_kill()
