@@ -1,4 +1,4 @@
-Empty is used to check whether a variable is empty or not.
+Empty is Used to check whether a variable is empty or not.
 <?php
 $var = 0;
 // Evaluates to true because $var is empty 
