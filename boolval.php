@@ -1,4 +1,4 @@
-Boolval is Used to get the boolean value of a variable
+Boolval is Used to Get the boolean value of a variable
 <?php
 echo '0: '.(boolval(0) ? 'true' : 'false')."\n";
 echo '42: '.(boolval(42) ? 'true' : 'false')."\n";
