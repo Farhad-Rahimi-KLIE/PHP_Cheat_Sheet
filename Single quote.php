@@ -1,2 +1,2 @@
-Print The next character as a single quote, not a string closer
+Print The Next character as a single quote, not a string closer
 \'
