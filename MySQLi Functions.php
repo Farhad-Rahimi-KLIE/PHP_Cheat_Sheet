@@ -1,0 +1,1 @@
+These functions allow you to access MySQL database server.
