@@ -1,14 +1,14 @@
 Equal
-Returns true If $x is equal to $y
+Returns true If $x is Equal to $y
 $x == $y
 Identical
-Returns true if $x is equal to $y, and they are of the same type
+Returns true if $x is Equal to $y, and they are of the same type
 $x === $y
 Not equal
-Returns true if $x is not equal to $y
+Returns true if $x is not Equal to $y
 $x != $y
 Not equal
-Returns true if $x is not equal to $y
+Returns true if $x is not Equal to $y
 $x <> $y
 Not identical
 Returns true if $x is not equal to $y, or they are not of the same type
