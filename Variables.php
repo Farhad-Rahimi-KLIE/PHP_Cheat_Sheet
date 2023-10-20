@@ -1,1 +1,1 @@
-Variables are "containers" for storing information.
+Variables are "Containers" for storing information.
