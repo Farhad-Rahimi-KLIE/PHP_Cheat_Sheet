@@ -1,2 +1,2 @@
-Quotient Of $x and $y
+Quotient of $x and $y
 $x / $y
