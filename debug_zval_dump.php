@@ -1,4 +1,4 @@
-debug_zval_dump is Used to dump a string representation of an internal zval structure to output
+debug_zval_dump is Used to dump a String representation of an internal zval structure to output
 <?php
 $var1 = 'Hello';
 $var1 .= ' World';
