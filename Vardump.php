@@ -1,2 +1,2 @@
-This function dumps Information about one or more variables.
+This Function dumps Information about one or more variables.
 <?php var_dump(var1, var2, ...); ?>
