@@ -1,2 +1,2 @@
-Difference Of $x and $y
+difference Of $x and $y
 $x - $y
