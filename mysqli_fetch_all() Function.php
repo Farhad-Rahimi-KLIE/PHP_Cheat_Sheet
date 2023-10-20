@@ -1,2 +1,2 @@
-It fetches all result rows as an array
+It fetches all Result rows as an array
 mysqli_fetch_all()
