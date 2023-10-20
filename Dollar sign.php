@@ -1,2 +1,2 @@
-Print the next Character as a dollar, not as part of a variable
+Print the Next Character as a dollar, not as part of a variable
 \$
