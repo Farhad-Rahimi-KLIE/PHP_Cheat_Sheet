@@ -1,2 +1,2 @@
-It adds a newline
+It adds a Newline
 \n
