@@ -8,7 +8,7 @@ Identity
 Returns true if $x and $y have the same key/value pairs in the same order and of the same types
 $x === $y
 Inequality
-Returns true if $x is not equal to $y
+Returns true if $x is Not equal to $y
 $x != $y
 Inequality
 Returns true if $x is not equal to $y
