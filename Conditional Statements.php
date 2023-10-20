@@ -1,4 +1,4 @@
-Conditional statements are used to perform operations based on some condition.
+Conditional Statements are used to perform operations based on some condition.
 If Statement
 if statement checks the condition and if it is True, then the block of if statement executes;
 otherwise, control skips that block of code.
