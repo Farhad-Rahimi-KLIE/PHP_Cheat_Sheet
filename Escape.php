@@ -1,2 +1,2 @@
-It is used for escape characters
+It is used for escape Characters
 \e
