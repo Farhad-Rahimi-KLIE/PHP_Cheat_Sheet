@@ -1,2 +1,2 @@
-It closes a database connection
+It closes a Database connection
 mysqli_close()
