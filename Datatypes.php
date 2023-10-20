@@ -1,1 +1,1 @@
-Datatype is a type of data
+Datatype is a Type of data
