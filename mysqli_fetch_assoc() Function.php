@@ -1,2 +1,2 @@
-It fetches a result row as an associative array
+It fetches a Result row as an associative array
 mysqli_fetch_assoc()
