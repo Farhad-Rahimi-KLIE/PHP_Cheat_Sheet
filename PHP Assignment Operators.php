@@ -1,4 +1,4 @@
-The PHP assignment operators are used with numeric values to write a value to a variable.
+The PHP Assignment operators are used with numeric values to write a value to a variable.
 
 x = y
 The left operand gets set to the value of the expression on the right
