@@ -1,2 +1,2 @@
-//The remainder of $x divided by $y
+//The Remainder of $x divided by $y
 $x % $y
