@@ -1,4 +1,4 @@
-It returns the type of different variables:
+It returns the Type of different variables:
 <?php
 $a = 3;
 echo gettype($a) ;
