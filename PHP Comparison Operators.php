@@ -1,5 +1,5 @@
 Equal
-Returns true if $x is equal to $y
+Returns true If $x is equal to $y
 $x == $y
 Identical
 Returns true if $x is equal to $y, and they are of the same type
