@@ -1,2 +1,2 @@
-Result of Raising $x to the $y'th power
+Result of Raising $x to The $y'th power
 $x ** $y
