@@ -1,6 +1,6 @@
 Conditional Statements are used to Perform operations based on some condition.
 If Statement
-if statement checks the condition and if it is True, then the block of if statement executes;
+if statement checks the Condition and if it is True, then the block of if statement executes;
 otherwise, control skips that block of code.
 if (condition) {
 // code to execute if condition is met 
