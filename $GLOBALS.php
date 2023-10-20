@@ -1,4 +1,4 @@
-$GLOBALS is a PHP super global variable which is used to access global variables from anywhere
+$GLOBALS is a PHP Super global variable which is used to access global variables from anywhere
 in the PHP script.
 <?php
 $a = 10;
