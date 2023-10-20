@@ -1,4 +1,4 @@
-It returns the Float value of different variables:
+It returns the Float Value of different variables:
 <?php
 $var = '122.34343The';
 $float_value_of_var = floatval($var);
