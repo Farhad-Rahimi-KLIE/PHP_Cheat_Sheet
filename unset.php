@@ -1,4 +1,4 @@
-It unsets Variables.
+It Unsets Variables.
 <?php
 $a = "Namaste world!";
 echo "The value of 'a' before unset: " . $a ;
