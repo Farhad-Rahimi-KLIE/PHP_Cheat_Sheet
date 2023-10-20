@@ -1,1 +1,1 @@
-An array stores multiple values in one single variable.
+An array Stores multiple values in one single variable.
