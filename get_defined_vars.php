@@ -1,4 +1,4 @@
-It returns all defined variables, as an array:
+It Returns all defined variables, as an array:
 <?php
 $b = array(1, 1, 2, 3, 5, 8);
 $arr = get_defined_vars();
