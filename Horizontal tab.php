@@ -1,2 +1,2 @@
-It Gives a horizontal tab space
+It Gives a Horizontal tab space
 \t
