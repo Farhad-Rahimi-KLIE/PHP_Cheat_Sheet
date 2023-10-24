@@ -1,4 +1,4 @@
-A Class is a Template for objects
+A Class is a Template For objects
 <?php
 class Harry{
 // code goes here... 
