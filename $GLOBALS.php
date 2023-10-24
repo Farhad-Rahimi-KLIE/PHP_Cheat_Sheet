@@ -1,5 +1,5 @@
 $GLOBALS is a Php Super Global Variable which is used to access global variables from anywhere
-in the PHP script.
+in the PHP Script.
 <?php
 $a = 10;
 $b = 15;
