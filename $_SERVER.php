@@ -51,3 +51,4 @@ Returns the path of the current script
 $_SERVER['SCRIPT_NAME']
 Returns the URI of the current page
 $_SERVER['SCRIPT_URI']
+
