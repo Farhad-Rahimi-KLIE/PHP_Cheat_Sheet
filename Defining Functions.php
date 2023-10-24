@@ -1,3 +1,3 @@
 function NameOfTheFunction() {
-//place PHP Code Here 
+//place PhP Code Here 
 }
