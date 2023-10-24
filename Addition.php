@@ -1,2 +1,2 @@
-Sum of $f And $r
+Sum of $f and $r
 $f + $r
