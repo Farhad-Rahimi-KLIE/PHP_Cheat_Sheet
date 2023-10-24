@@ -1,4 +1,4 @@
-PHP $_REQUEST is a PHP Super Global variable which is used to collect data after submitting an
+PHP $_REQUEST is a Php Super Global variable which is used to collect data after submitting an
 HTML form.
 <html>
 <body>
