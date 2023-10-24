@@ -1,4 +1,4 @@
-PHP $_POST is a PHP Super Global variable which is used to collect form data after submitting an
+PHP $_POST is a Php Super Global variable which is used to collect form data after submitting an
 HTML form with method="post". $_POST is also widely used to pass variables.
 <html>
 <body>
