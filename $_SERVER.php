@@ -1,4 +1,4 @@
-Returns the Filename of the Currently executing script. $_SERVER is a PHP super global variable
+Returns the Filename of The Currently executing script. $_SERVER is a PHP super global variable
 which holds information about headers, paths, and script locations.
 $_SERVER['PHP_SELF']
 Returns the version of the Common Gateway Interface (CGI) the server is using
