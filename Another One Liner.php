@@ -1,2 +1,2 @@
-This is a Single-line Comment
+This is a single-line Comment
 # Chocolate dedo mujhe yaar
